@@ -26,3 +26,8 @@ colorblack;
 postion:relative;
 display:inline-block;
 }
+.zoomimage{
+transtion:0.5s'
+.zoomimage:hover{
+transform:scale(1.2);
+}
